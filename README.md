@@ -1,2 +1,2 @@
 # data-analytics
-Data Analytics projecte
+Data Analytics projects
